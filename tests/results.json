@@ -1,0 +1,222 @@
+{
+  "created": "2026-10-06T15:10:27.705Z",
+  "environment": "v24.19.0",
+  "tests_passed": 7,
+  "synthetic_cases": 30,
+  "mean_heldout_deltaE76": 3.9668679764944175,
+  "mean_baseline_deltaE76": 41.88164352705213,
+  "median_ms": 8.845381000000003,
+  "limits": "Synthetic numerical tests, not field observations, human study, species accuracy or browser QA.",
+  "cases": [
+    {
+      "case": 0,
+      "pixels": 1000,
+      "heldout_error": 2.7769769707840117,
+      "baseline_error": 73.86201014871521,
+      "ms": 13.384992999999994
+    },
+    {
+      "case": 1,
+      "pixels": 1000,
+      "heldout_error": 4.314192575130931,
+      "baseline_error": 43.088457398168984,
+      "ms": 7.987902999999989
+    },
+    {
+      "case": 2,
+      "pixels": 1000,
+      "heldout_error": 4.140106999548466,
+      "baseline_error": 47.0173801199745,
+      "ms": 8.23706
+    },
+    {
+      "case": 3,
+      "pixels": 1000,
+      "heldout_error": 3.179262040464567,
+      "baseline_error": 8.802552033794246,
+      "ms": 15.797646
+    },
+    {
+      "case": 4,
+      "pixels": 1000,
+      "heldout_error": 3.5699025681941903,
+      "baseline_error": 35.09953106548002,
+      "ms": 11.049067000000008
+    },
+    {
+      "case": 5,
+      "pixels": 1000,
+      "heldout_error": 4.702138677160662,
+      "baseline_error": 42.38257826750592,
+      "ms": 11.281978999999993
+    },
+    {
+      "case": 6,
+      "pixels": 1000,
+      "heldout_error": 3.8537112235563944,
+      "baseline_error": 26.217139882008496,
+      "ms": 8.837659000000002
+    },
+    {
+      "case": 7,
+      "pixels": 1000,
+      "heldout_error": 3.693349611163465,
+      "baseline_error": 54.928086853462055,
+      "ms": 10.388466999999991
+    },
+    {
+      "case": 8,
+      "pixels": 1000,
+      "heldout_error": 4.593169189513002,
+      "baseline_error": 46.964518117148664,
+      "ms": 4.961712000000006
+    },
+    {
+      "case": 9,
+      "pixels": 1000,
+      "heldout_error": 3.61977810547283,
+      "baseline_error": 38.589324629554746,
+      "ms": 11.144682000000017
+    },
+    {
+      "case": 10,
+      "pixels": 1000,
+      "heldout_error": 3.946637246300709,
+      "baseline_error": 46.87727324800011,
+      "ms": 8.845381000000003
+    },
+    {
+      "case": 11,
+      "pixels": 1000,
+      "heldout_error": 4.385204958528874,
+      "baseline_error": 50.558336417483844,
+      "ms": 7.153042999999997
+    },
+    {
+      "case": 12,
+      "pixels": 1000,
+      "heldout_error": 3.934140526332383,
+      "baseline_error": 27.49945653663749,
+      "ms": 12.791314999999997
+    },
+    {
+      "case": 13,
+      "pixels": 1000,
+      "heldout_error": 3.9532047193995137,
+      "baseline_error": 31.833026403275753,
+      "ms": 16.482371999999998
+    },
+    {
+      "case": 14,
+      "pixels": 1000,
+      "heldout_error": 4.301058566940391,
+      "baseline_error": 47.77036830113349,
+      "ms": 6.563626999999997
+    },
+    {
+      "case": 15,
+      "pixels": 1000,
+      "heldout_error": 3.6142170199709467,
+      "baseline_error": 39.25245091100233,
+      "ms": 14.64149599999999
+    },
+    {
+      "case": 16,
+      "pixels": 1000,
+      "heldout_error": 4.074788429276758,
+      "baseline_error": 52.304975068794086,
+      "ms": 16.520399999999995
+    },
+    {
+      "case": 17,
+      "pixels": 1000,
+      "heldout_error": 4.495568178224575,
+      "baseline_error": 53.255995920825946,
+      "ms": 5.5021299999999655
+    },
+    {
+      "case": 18,
+      "pixels": 1000,
+      "heldout_error": 3.5056158374751076,
+      "baseline_error": 40.52540261466873,
+      "ms": 10.384041000000025
+    },
+    {
+      "case": 19,
+      "pixels": 1000,
+      "heldout_error": 3.6730801623271336,
+      "baseline_error": 39.385188767088174,
+      "ms": 11.527470999999991
+    },
+    {
+      "case": 20,
+      "pixels": 1000,
+      "heldout_error": 5.026055387568367,
+      "baseline_error": 30.861125882605364,
+      "ms": 8.274325999999974
+    },
+    {
+      "case": 21,
+      "pixels": 1000,
+      "heldout_error": 3.329539365772451,
+      "baseline_error": 44.994076449467336,
+      "ms": 14.20732700000002
+    },
+    {
+      "case": 22,
+      "pixels": 1000,
+      "heldout_error": 4.051643327198906,
+      "baseline_error": 34.77642931220723,
+      "ms": 8.620790999999997
+    },
+    {
+      "case": 23,
+      "pixels": 1000,
+      "heldout_error": 4.277420906147958,
+      "baseline_error": 44.71702682114109,
+      "ms": 5.128243999999995
+    },
+    {
+      "case": 24,
+      "pixels": 1000,
+      "heldout_error": 3.645352319076812,
+      "baseline_error": 34.155556479383144,
+      "ms": 15.299144999999953
+    },
+    {
+      "case": 25,
+      "pixels": 1000,
+      "heldout_error": 3.8926750880399017,
+      "baseline_error": 49.64051558356888,
+      "ms": 8.18456100000003
+    },
+    {
+      "case": 26,
+      "pixels": 1000,
+      "heldout_error": 4.315046985335541,
+      "baseline_error": 33.27001863989899,
+      "ms": 4.7237010000000055
+    },
+    {
+      "case": 27,
+      "pixels": 1000,
+      "heldout_error": 3.309027006006673,
+      "baseline_error": 60.12384576626383,
+      "ms": 7.856824000000017
+    },
+    {
+      "case": 28,
+      "pixels": 1000,
+      "heldout_error": 4.447805324179456,
+      "baseline_error": 35.55289817566692,
+      "ms": 5.523060999999984
+    },
+    {
+      "case": 29,
+      "pixels": 1000,
+      "heldout_error": 4.385369979741558,
+      "baseline_error": 42.143759996638046,
+      "ms": 5.081902999999954
+    }
+  ]
+}
